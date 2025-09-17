@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "13.5.11",
     "react": "latest",
     "react-dom": "latest",
     "telegraf": "^4.14.0"
